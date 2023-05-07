@@ -1,4 +1,75 @@
-.container {
-    max-width: 500px;
-    margin: auto;
+*{
+    padding: 0;
+    margin: 0;
 }
+.container {
+    max-width: 600px;
+    margin: auto;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+
+
+h1{
+    margin-top: 4rem;
+    text-align: center;
+    color:#FC6F00;
+}
+
+h2{
+    margin-top: 3rem;
+    text-align: center;
+    color:#FC6F00;
+}
+
+h3{
+    margin-top: 2rem;
+}
+
+p, iframe{
+    margin-top: 1rem;
+   
+}
+
+iframe{
+    max-width: 100%;
+    height: auto;
+    aspect-ratio: 16/9;
+}
+
+h1{
+    font-family: 'Lindsey Signature', cursive;
+    font-size: 4rem;
+}
+
+h2 {
+    font-family: 'Lindsey Signature', cursive;
+    font-size: 2.5rem;
+
+}
+
+ p, h3 {
+    font-family: 'Quicksand', sans-serif;
+  
+}
+
+a :link{
+    color : white;
+}
+
+a :hover {
+    color: grey;
+}
+
+img {
+    width: 100%;
+    padding-top: 2rem;
+}
+
+.sous-titre {
+    text-align:center;
+    margin-top: 0%;
+
+}
+
+.eventail
