@@ -5,8 +5,10 @@
 .container {
     max-width: 600px;
     margin: auto;
-    padding-left: 0.5rem;
-    padding-right: 0.5rem;
+    padding-top: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 2rem;
 }
 
 
@@ -38,12 +40,16 @@ iframe{
 }
 
 h1{
-    font-family: 'Lindsey Signature', cursive;
+    font-family: lindsey-signature, sans-serif;
+    font-style: normal;
+    font-weight: 400;
     font-size: 4rem;
 }
 
 h2 {
-    font-family: 'Lindsey Signature', cursive;
+    font-family: lindsey-signature, sans-serif;
+    font-style: normal;
+    font-weight: 400;
     font-size: 2.5rem;
 
 }
